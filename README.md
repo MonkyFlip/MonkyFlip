@@ -48,10 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MonkyFlip/MonkyFlip/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="left" height="200" src="https://th.bing.com/th/id/R.157309f28356d96291477af8d0806166?rik=uI3zBcOqf%2b4aKQ&pid=ImgRaw&r=0"  />
 
 ###
